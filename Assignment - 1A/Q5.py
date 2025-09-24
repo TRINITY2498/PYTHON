@@ -1,0 +1,5 @@
+w1 = input()
+w2 = input()
+w1_length = len(w1)
+w2_length = len(w2)
+print(w2_length - 1)
